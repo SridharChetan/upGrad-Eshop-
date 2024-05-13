@@ -17,7 +17,7 @@ const Copyright = (props) => {
       >
         upGrad
       </a>{" "}
-      {2023}
+      {2024}
       {"."}
     </Typography>
   );
